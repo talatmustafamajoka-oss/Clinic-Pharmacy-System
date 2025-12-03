@@ -54,4 +54,11 @@ The system automates clinic management, improves efficiency, and ensures accurat
 •	Microsoft Access Documentation
 •	TutorialsPoint – Database Management
 •	ICT Course Notes
+## To-Do List
+
+- [ ] Create HTML Pages (index.html, patients.html, doctors.html, appointments.html, medicines.html, billing.html)
+- [ ] Create MS Access Database (Patients, Doctors, Appointments, Medicines, Billing tables)
+- [ ] Draw ERD & Flowchart
+- [ ] Write Project Report (already done)
+- [ ] Upload project files to GitHub
 
